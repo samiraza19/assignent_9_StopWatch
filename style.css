@@ -1,0 +1,33 @@
+body{
+  background-image : url('clock.jpg' );
+  background-repeat: no-repeat;
+  background-position:inherit;
+  background-size:107% ;
+  text-align: center;
+}
+
+.heading{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin: 100px;
+  font-size: 70px;
+}
+.headingMin{
+  display: inline-block;
+  text-align: center;
+  font-size: 70px;
+ 
+  
+}
+
+button{
+ background-color:white;
+  font-size: 35px;
+  border-radius: 20px;
+  margin-top: 70px;
+}
+
+
+button:hover{
+  background: transparent;
+}
